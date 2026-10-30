@@ -55,22 +55,6 @@ AI is one of the things I'm most interested in, and I'm putting real work into i
 
 **Where I'm heading:** the full Anthropic Academy catalog, with every certificate published here.
 
-## 🧭 How I Work
-
-**What I'm covering:**
-- Using Claude effectively for everyday work
-- Claude Code in a daily development workflow
-- AI fluency for builders: taking a problem all the way to a shipped solution
-
-**Where I'm heading:** the full Anthropic Academy catalog, with every certificate published here.
-
-## 🧭 How I Work
-
-- **Documentation is part of the project:** every repository I publish has a README with an overview, build and run instructions, and example output
-- **Clean repositories:** only source files are published, with no compiled binaries, credentials, or personal data
-- **Credit where it is due:** when work builds on a course-provided engine or on a team's code, I say so and describe my own part
-- **Careful input handling:** my programs validate user input and recover gracefully instead of crashing
-
 ## 🎯 Goals
 
 - **Now:** an internship or role in backend or systems engineering, where I can contribute to real code and learn from experienced engineers
